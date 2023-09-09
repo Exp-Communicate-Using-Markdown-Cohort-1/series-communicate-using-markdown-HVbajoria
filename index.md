@@ -5,3 +5,7 @@ git init
 git add .
 git commit -m "Meaningful message"
 ```
+## List:
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
